@@ -33,6 +33,10 @@ def employee_preferences():
                     "Diane": [4,1,2,3]}
 
     # TODO: Add additional employees with preferences
+    preferences["Erik"] = [1,3,2,4]
+    preferences["Francis"] = [4,3,2,1]
+    preferences["Greta"] = [2,1,4,3]
+    preferences["Harry"] = [3,2,1,4]
 
     return preferences
 
